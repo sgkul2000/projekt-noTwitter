@@ -1,4 +1,5 @@
-# pleasehire
+>>>>>>> HEAD
+# noTwitter
 
 ## Project setup
 ```
